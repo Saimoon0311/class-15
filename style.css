@@ -1,0 +1,25 @@
+.main{
+    border : 2px solid  grey;
+    width: 250px;
+    margin: 0 auto;
+}
+.result{
+    width: 97%;
+    background-color: grey;
+    color: #ffff;
+}
+.clear{
+    width: 100%;
+    margin-top: 10px;
+    background-color: grey;
+}
+.btn{
+   background-color: grey;
+   width: 55px;
+   margin: 2px;
+}
+.hasa{
+    width: 120px;
+    background-color: grey;
+    margin-top: 2px;
+}
